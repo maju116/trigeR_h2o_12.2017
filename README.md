@@ -2,7 +2,7 @@
 Machine Learning in H2O using R part II - Ensemble methods 
 
 # Przed warsztatem:
-Na warsztat każdy przychodzi z własnym laptopem. Należy zainstalować R, Rstudio oraz nastepujące pakiety: tidyverse, h2o. W przypadku zainstalowanego już pakietu h2o należy zrobić upgrade do najnowszej wersji.
+Na warsztat każdy przychodzi z własnym laptopem. Należy zainstalować R, Rstudio oraz nastepujące pakiety: tidyverse, h2o. W przypadku zainstalowanego już pakietu h2o należy zrobić upgrade do najnowszej wersji. Następnie pobrać repozytorium i rozpakować plik 'creditcard.csv'
 
 ```
 install.packages("tidyverse")
