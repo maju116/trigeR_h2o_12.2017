@@ -54,3 +54,6 @@ R is connected to the H2O cluster:
  ```
  
  Jeśli nie wystąpiły błedy wszystko jest w porządku. W razie wystąpienia błedów nalezy w pierwszej kolejności przeinstalować Java do nowszej wersji.
+ 
+ Zalecam przypomnienie sobie podstawownych informacji z pierwszego warsztatu:
+ https://github.com/maju116/trigeR_h2o_06.2017/blob/master/wprowadzenie.R
